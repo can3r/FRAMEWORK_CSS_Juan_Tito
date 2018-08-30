@@ -1,0 +1,16 @@
+.lista{
+  background: #42a5f5;
+}
+.cuerpo{
+  background: #4dd0e1;
+}
+textarea{
+  background: #a5d6a7;
+}
+body{
+  background: url(../img/restore.jpg);
+}
+header{
+  background-color: rgba(50, 46, 103, 0.73);
+  opacity: 0.73;
+}
